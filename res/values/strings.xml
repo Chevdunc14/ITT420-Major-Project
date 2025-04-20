@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UCC APP</string>
+    <string name="todo">TODO</string>
+    <string name="social_media">Social Media</string>
+    <string name="admissions">Admissions</string>
+    <string name="faculty_staff_directory">Faculty/Staff Directory</string>
+    <string name="courses">Courses</string>
+    <string name="faculty_directory">Faculty Directory</string>
+    <string name="Courses">Courses</string>
+    <string name="Admissions">Admissions</string>
+    <string name="Social_Media">Social Media</string>
+    <string name="contact_hod">Contact HOD</string>
+    <string name="jane_smith_ucc_edu_jm">jane.smith@ucc.edu.jm</string>
+    <string name="dr_jane_smith">Dr. Jane Smith</string>
+    <string name="phone_jane_smith">876-555-1234</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="course_credits">Credits: %1$d</string>
+    <string name="course_prerequisite">Prerequisite: %1$s</string>
+    <string name="course_code">Code: %1$s</string>
+    <string name="apply_online">Apply Online</string>
+    <string name="join_the_faculty_of_mathematics_technology_and_science_at_ucc_and_prepare_for_a_future_in_it_cybersecurity_software_engineering_and_more_to_apply_you_must_have_n_n_at_least_5_csec_subjects_n_including_mathematics_and_english_n_nflexible_schedules_scholarships_and_online_learning_options_available">Join the Faculty of Mathematics, Technology and Science at UCC and prepare for a future in IT, Cybersecurity, Software Engineering, and more. To apply, you must have:\n\n• At least 5 CSEC subjects\n• Including Mathematics and English\n\nFlexible schedules, scholarships, and online learning options available!</string>
+    <string name="ucc_admissions">UCC Admissions</string>
+    <string name="follow_ucc_on_social_media">Follow UCC on Social Media</string>
+    <string name="youtube">YouTube</string>
+    <string name="tiktok">TikTok</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="it_essentials">IT Essentials</string>
+    <string name="credits_3">Credits: 3</string>
+    <string name="prerequisite_none">Prerequisite: None</string>
+    <string name="this_course_covers_the_fundamentals_of_it_and_computing">This course covers the fundamentals of IT and computing...</string>
+    <string name="itt1001">ITT1001</string>
+
+
+</resources>
